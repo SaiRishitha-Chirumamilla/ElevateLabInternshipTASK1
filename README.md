@@ -18,10 +18,10 @@ The raw dataset had missing values, duplicate rows, and inconsistent formats. I 
 ✔️ Fixed incorrect data types (like age as number, date as date type)  
 
 ## 📁 Files in This Project  
-  ├── netflix_titles.csv # Original dataset
-  ├── cleaned_netflix_titles.xls # Cleaned dataset after fixing issues
-  ├── task1.ipynb # Jupyter notebook with all my steps
-  ├── README.md # This file
+  --netflix_titles.csv # Original dataset
+  --cleaned_netflix_titles.xls # Cleaned dataset after fixing issues
+  --task1.ipynb # Jupyter notebook with all my steps
+  --README.md # This file
 
 ## ✅ Output  
 A clean, standardized dataset ready for data analysis, free of missing values, duplicates, and formatting inconsistencies.
